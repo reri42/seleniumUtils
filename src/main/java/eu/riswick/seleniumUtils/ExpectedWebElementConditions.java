@@ -5,6 +5,8 @@ import org.openqa.selenium.WebElement;
 
 /**
  * Created by remco on 1-11-16.
+ * ExpectedWebElementConditions is similar to ExpectedConditions of selenium only provides methods that work
+ * within the context of a WebElement.
  */
 public  class ExpectedWebElementConditions {
     private ExpectedWebElementConditions(){}
